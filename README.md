@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SMART ENERGY CONSUMPTION, PREDICTION AND OPTIMIZATION
+=======
+<img width="4886" height="367" alt="image" src="https://github.com/user-attachments/assets/6a72e2df-31a9-4f3e-b4e5-3b4fabfdc5cd" /># SMART ENERGY CONSUMPTION, PREDICTION AND OPTIMIZATION
+>>>>>>> 301d352e545a6753f2b689fa46ff95f76318414d
 
 ## Project Overview
 This project is an Energy Management System that predicts electricity consumption using Machine Learning techniques. The system analyzes weather and time-related features to estimate power usage for different zones.
@@ -32,6 +36,7 @@ https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption
 
 ---
 
+<<<<<<< HEAD
 # Technologies Used
 - Python
 - Flask
@@ -44,6 +49,8 @@ https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption
 
 ---
 
+=======
+>>>>>>> 301d352e545a6753f2b689fa46ff95f76318414d
 # Execution Steps
 
 ## 1. Clone the Repository
@@ -131,6 +138,8 @@ http://localhost:5173
 
 # Output Screenshots
 
+# Output Screenshots
+
 ## Home Page
 ![Home Page](screenshots/home.jpeg)
 
@@ -150,3 +159,12 @@ http://localhost:5173
 ![Energy Usage Chart](screenshots/chart.jpeg)
 
 ---
+
+# Future Enhancements
+- Real-time energy monitoring
+- IoT device integration
+- Advanced deep learning models
+- Smart energy recommendation system
+
+---
+>>>>>>> 301d352e545a6753f2b689fa46ff95f76318414d

@@ -48,12 +48,17 @@ https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption
 
 ## 1. Clone the Repository
 
-git clone <your-github-repository-link>
+```bash
+git clone https://github.com/Indira-28-02/energy_consumption.git
+```
 
+---
 
 ## 2. Open the Project Folder
 
+```bash
 cd ML
+```
 
 ---
 
@@ -61,19 +66,31 @@ cd ML
 
 ## 3. Navigate to Backend Folder
 
+```bash
 cd backend
+```
+
+---
 
 ## 4. Install Required Packages
 
+```bash
 pip install -r requirements.txt
+```
+
+---
 
 ## 5. Start Backend Server
 
+```bash
 python app.py
+```
 
 Backend will run at:
 
+```bash
 http://localhost:5000
+```
 
 ---
 
@@ -81,24 +98,38 @@ http://localhost:5000
 
 ## 6. Open a New Terminal
 
+---
+
 ## 7. Navigate to Frontend Folder
 
+```bash
 cd frontend
+```
+
+---
 
 ## 8. Install Frontend Dependencies
 
+```bash
 npm install
+```
+
+---
 
 ## 9. Start Frontend Server
 
+```bash
 npm run dev
-
+```
 
 Frontend will run at:
 
+```bash
 http://localhost:5173
+```
 
 ---
+
 
 # Project Workflow
 

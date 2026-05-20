@@ -1,0 +1,65 @@
+.about-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  background: linear-gradient(135deg, white, 100%);
+}
+
+.about-card {
+  background: white;
+  border-radius: 16px;
+  padding: 60px;
+  max-width: 800px;
+  width: 100%;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.about-title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #4338ca;
+  margin-bottom: 15px;
+}
+
+.about-subtitle {
+  font-size: 1.5rem;
+  color: #1e293b;
+  margin-bottom: 40px;
+  font-weight: 500;
+}
+
+.about-description {
+  font-size: 1.2rem;
+  color: #475569;
+  line-height: 1.8;
+  margin-bottom: 25px;
+  text-align: left;
+}
+
+.about-divider {
+  height: 1px;
+  background: #e2e8f0;
+  margin: 40px 0;
+}
+
+.about-contact {
+  text-align: left;
+  margin-top: 50px;
+}
+
+.about-contact span {
+  font-weight: 600;
+  color: #4338ca;
+  display: block;
+  margin-bottom: 10px;
+  font-size: 1.3rem;
+}
+
+.about-contact p {
+  color: #64748b;
+  margin: 0;
+  font-size: 1.1rem;
+}

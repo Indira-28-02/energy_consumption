@@ -1,0 +1,146 @@
+.power-page {
+  width: 100%;
+}
+
+.page-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 32px;
+  color: #0f172a;
+}
+
+/* LAYOUT */
+.power-layout {
+  display: grid;
+  grid-template-columns: 1fr 1.25fr;
+  gap: 36px;
+}
+
+/* CARDS */
+.form-card,
+.result-card {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+}
+
+/* HEADINGS */
+.form-card h2,
+.result-card h2 {
+  font-size: 18px;
+  margin-bottom: 22px;
+  color: #1e293b;
+}
+
+/* FORM */
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 18px;
+}
+
+.form-group label {
+  font-size: 13px;
+  margin-bottom: 6px;
+  color: #475569;
+}
+
+.form-group input,
+.form-group select {
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid #cbd5f5;
+  font-size: 14px;
+}
+
+/* BUTTON */
+.predict-btn {
+  margin-top: 12px;
+  width: 100%;
+  padding: 14px;
+  border-radius: 12px;
+  border: none;
+  background: #475569;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.predict-btn:hover {
+  background: #334155;
+}
+
+/* RESULT BELOW BUTTON */
+.zone-result {
+  margin-top: 18px;
+  padding: 14px;
+  border-radius: 10px;
+  background: #f1f5f9;
+  color: #334155;
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* MAIN OUTPUT */
+.main-output {
+  margin-bottom: 24px;
+  padding: 22px;
+  border-radius: 14px;
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+}
+
+.output-label {
+  font-size: 13px;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.output-value {
+  margin-top: 8px;
+  font-size: 36px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.output-value .unit {
+  font-size: 16px;
+  color: #64748b;
+}
+
+/* PLACEHOLDER */
+.result-placeholder {
+  color: #64748b;
+  font-size: 15px;
+}
+/* VIOLET THEME */
+.violet {
+  background: #eef2ff;
+  color: #1e1b4b;
+}
+
+.violet-bg {
+  background: linear-gradient(135deg, 1e293b, 1e293b);
+  color: white;
+}
+
+.predict-btn {
+  background: linear-gradient(135deg, #4f46e5, #4338ca);
+}
+
+.predict-btn:hover {
+  background: linear-gradient(135deg, #4338ca, #3730a3);
+}
+
+/* ERROR */
+.error-text {
+  margin-top: 14px;
+  color: #dc2626;
+  font-size: 14px;
+  font-weight: 500;
+}

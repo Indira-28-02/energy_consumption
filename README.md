@@ -144,8 +144,6 @@ http://localhost:5173
 
 # Output Screenshots
 
-# Output Screenshots
-
 ## Home Page
 ![Home Page](screenshots/home.jpeg)
 

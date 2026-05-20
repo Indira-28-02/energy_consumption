@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # SMART ENERGY CONSUMPTION, PREDICTION AND OPTIMIZATION
-=======
-<img width="4886" height="367" alt="image" src="https://github.com/user-attachments/assets/6a72e2df-31a9-4f3e-b4e5-3b4fabfdc5cd" /># SMART ENERGY CONSUMPTION, PREDICTION AND OPTIMIZATION
->>>>>>> 301d352e545a6753f2b689fa46ff95f76318414d
 
 ## Project Overview
 This project is an Energy Management System that predicts electricity consumption using Machine Learning techniques. The system analyzes weather and time-related features to estimate power usage for different zones.
@@ -36,7 +32,6 @@ https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption
 
 ---
 
-<<<<<<< HEAD
 # Technologies Used
 - Python
 - Flask
@@ -49,21 +44,16 @@ https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption
 
 ---
 
-=======
->>>>>>> 301d352e545a6753f2b689fa46ff95f76318414d
 # Execution Steps
 
 ## 1. Clone the Repository
 
-```bash
 git clone <your-github-repository-link>
-```
+
 
 ## 2. Open the Project Folder
 
-```bash
 cd ML
-```
 
 ---
 
@@ -71,27 +61,19 @@ cd ML
 
 ## 3. Navigate to Backend Folder
 
-```bash
 cd backend
-```
 
 ## 4. Install Required Packages
 
-```bash
 pip install -r requirements.txt
-```
 
 ## 5. Start Backend Server
 
-```bash
 python app.py
-```
 
 Backend will run at:
 
-```bash
 http://localhost:5000
-```
 
 ---
 
@@ -101,27 +83,20 @@ http://localhost:5000
 
 ## 7. Navigate to Frontend Folder
 
-```bash
 cd frontend
-```
 
 ## 8. Install Frontend Dependencies
 
-```bash
 npm install
-```
 
 ## 9. Start Frontend Server
 
-```bash
 npm run dev
-```
+
 
 Frontend will run at:
 
-```bash
 http://localhost:5173
-```
 
 ---
 
@@ -167,4 +142,4 @@ http://localhost:5173
 - Smart energy recommendation system
 
 ---
->>>>>>> 301d352e545a6753f2b689fa46ff95f76318414d
+

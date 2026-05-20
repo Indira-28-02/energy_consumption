@@ -144,19 +144,19 @@ http://localhost:5173
 ![Home Page](screenshots/home.jpeg)
 
 ## Power Prediction
-![Power Prediction](screenshots/powerprediction.jpeg)
+![Power Prediction](screenshots/powerprediction.jpg)
 
 ## Zone Wise Analysis
-![Zone Wise Analysis](screenshots/zonewiseanalysis.jpeg)
+![Zone Wise Analysis](screenshots/zonewiseanalysis.jpg)
 
 ## Anomaly Detection
-![Anomaly Detection](screenshots/anomalydetection.jpeg)
+![Anomaly Detection](screenshots/anomalydetection.jpg)
 
 ## Anomaly Result
-![Anomaly Result](screenshots/anomalyresult.jpeg)
+![Anomaly Result](screenshots/anomalyresult.jpg)
 
 ## Energy Usage Chart
-![Energy Usage Chart](screenshots/chart.jpeg)
+![Energy Usage Chart](screenshots/chart.jpg)
 
 ---
 

@@ -165,6 +165,7 @@ http://localhost:5173
 ---
 
 # Future Enhancements
+
 - Real-time energy monitoring
 - IoT device integration
 - Advanced deep learning models

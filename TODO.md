@@ -2,14 +2,14 @@
 
 ## Steps to Complete
 
-1. **Update backend/app.py** ✅
+1. **Update backend/app.py** 
    - Modify /detect-anomaly to filter data by month and hour for more accurate anomaly detection using hour-specific mean and std.
 
-2. **Update AnomalyDetection.jsx** ✅
+2. **Update AnomalyDetection.jsx** 
    - Add day input field to the form in manual mode.
    - Change anomaly result display to "Anomaly" or "Normal" instead of "Anomaly Detected" or "Normal".
 
-3. **Update ZoneAnalysis.jsx** ✅
+3. **Update ZoneAnalysis.jsx** 
    - Add selectedMetric state and dropdown for Metric selection (Power, Power Difference).
    - Ensure useEffect includes selectedMetric.
 
